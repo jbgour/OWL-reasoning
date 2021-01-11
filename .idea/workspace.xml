@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba15f16e-7c46-4edb-ba2c-2ddb8e3a9752" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c5084b4f-fab9-4c45-a813-3bffa8afdada" />
+  <component name="ProjectId" id="1mux5PCYYrbZ1nKGccGWSJ0QqYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (process-ontology-flask.py)">
+    <configuration name="Unnamed" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug" nameIsGenerated="true">
+      <module name="flaskProject" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TD2 _processus" type="PythonConfigurationType" factoryName="Python">
+      <module name="flaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/KR/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TD2_processus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="flaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/KR/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TD2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student-ontology" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="flaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/KR/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student-ontology.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (process-ontology-flask.py)" type="Python.FlaskServer" nameIsGenerated="true">
+      <option name="flaskDebug" value="true" />
+      <module name="flaskProject" />
+      <option name="target" value="$PROJECT_DIR$/process-ontology-flask.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/KR/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TD2 _processus" />
+      <item itemvalue="Python Debug Server.Unnamed" />
+      <item itemvalue="Python.student-ontology" />
+      <item itemvalue="Flask server.Flask (process-ontology-flask.py)" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba15f16e-7c46-4edb-ba2c-2ddb8e3a9752" name="Default Changelist" comment="" />
+      <created>1610357106331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610357106331</updated>
+      <workItem from="1610357113279" duration="165000" />
+      <workItem from="1610357283669" duration="10000" />
+      <workItem from="1610357361558" duration="14205000" />
+      <workItem from="1610381018914" duration="6000" />
+      <workItem from="1610381029674" duration="63000" />
+      <workItem from="1610381308808" duration="42000" />
+      <workItem from="1610381357644" duration="199000" />
+      <workItem from="1610381593515" duration="2789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2000" y="127" key="#Deployment" timestamp="1610380891237">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="127" key="#Deployment/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610380891237" />
+    <state x="2000" y="127" key="#Deployment/0.25.1440.875/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610379673332" />
+    <state x="1984" y="114" key="#SSH_Configurations" timestamp="1610380889924">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state x="1984" y="114" key="#SSH_Configurations/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610380889924" />
+    <state x="2107" y="206" key="#Servers" timestamp="1610379733272">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state x="2107" y="206" key="#Servers/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610379733272" />
+    <state x="1864" y="124" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610381423544">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state x="1864" y="124" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610381423544" />
+    <state x="1864" y="144" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.797/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610360864590" />
+    <state x="1864" y="144" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610367615249" />
+    <state x="2126" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610381885584">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state x="2126" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610381885584" />
+    <state width="1605" height="512" key="GridCell.Tab.0.bottom" timestamp="1610381016986">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state width="1605" height="512" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610381016986" />
+    <state width="1100" height="336" key="GridCell.Tab.0.bottom/0.25.1440.797/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610361033206" />
+    <state width="1605" height="512" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610375039109" />
+    <state width="1605" height="395" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-50.1920.960@1440.-50.1920.960" timestamp="1610376122451" />
+    <state width="1878" height="468" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610377867172" />
+    <state width="1605" height="512" key="GridCell.Tab.0.center" timestamp="1610381016984">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state width="1605" height="512" key="GridCell.Tab.0.center/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610381016984" />
+    <state width="1100" height="336" key="GridCell.Tab.0.center/0.25.1440.797/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610361033205" />
+    <state width="1605" height="512" key="GridCell.Tab.0.center/0.25.1440.875/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610375039107" />
+    <state width="1605" height="395" key="GridCell.Tab.0.center/0.25.1440.875/1440.-50.1920.960@1440.-50.1920.960" timestamp="1610376122448" />
+    <state width="1878" height="468" key="GridCell.Tab.0.center/0.25.1440.875/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610377867169" />
+    <state width="1605" height="512" key="GridCell.Tab.0.left" timestamp="1610381016984">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state width="1605" height="512" key="GridCell.Tab.0.left/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610381016984" />
+    <state width="1100" height="336" key="GridCell.Tab.0.left/0.25.1440.797/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610361033204" />
+    <state width="1605" height="512" key="GridCell.Tab.0.left/0.25.1440.875/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610375039106" />
+    <state width="1605" height="395" key="GridCell.Tab.0.left/0.25.1440.875/1440.-50.1920.960@1440.-50.1920.960" timestamp="1610376122447" />
+    <state width="1878" height="468" key="GridCell.Tab.0.left/0.25.1440.875/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610377867168" />
+    <state width="1605" height="512" key="GridCell.Tab.0.right" timestamp="1610381016985">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state width="1605" height="512" key="GridCell.Tab.0.right/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610381016985" />
+    <state width="1100" height="336" key="GridCell.Tab.0.right/0.25.1440.797/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610361033205" />
+    <state width="1605" height="512" key="GridCell.Tab.0.right/0.25.1440.875/1440.-50.1920.1055@1440.-50.1920.1055" timestamp="1610375039108" />
+    <state width="1605" height="395" key="GridCell.Tab.0.right/0.25.1440.875/1440.-50.1920.960@1440.-50.1920.960" timestamp="1610376122450" />
+    <state width="1878" height="468" key="GridCell.Tab.0.right/0.25.1440.875/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610377867171" />
+    <state x="1909" y="101" key="SettingsEditor" timestamp="1610381402951">
+      <screen x="1440" y="-75" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="101" key="SettingsEditor/0.0.1440.900/1440.-75.1920.1080@1440.-75.1920.1080" timestamp="1610381402951" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flaskProject$Flask__TD2_site_dynamique_py_.coverage" NAME="Flask (TD2-site-dynamique.py) Coverage Results" MODIFIED="1610379480052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flaskProject$TD2.coverage" NAME="TD2 Coverage Results" MODIFIED="1610374806945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flaskProject$TD2__processus.coverage" NAME="TD2 _processus Coverage Results" MODIFIED="1610361314015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

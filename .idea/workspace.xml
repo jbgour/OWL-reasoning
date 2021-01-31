@@ -139,10 +139,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.TD2 _processus" />
-      <item itemvalue="Python Debug Server.Unnamed" />
-      <item itemvalue="Python.student-ontology" />
       <item itemvalue="Flask server.Flask (process-ontology-flask.py)" />
+      <item itemvalue="Python.TD2 _processus" />
+      <item itemvalue="Python.student-ontology" />
+      <item itemvalue="Python Debug Server.Unnamed" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
